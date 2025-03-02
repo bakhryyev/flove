@@ -1,0 +1,61 @@
+body {
+    display: grid; /* Активация Grid */
+    background: #CFB997;
+    place-items: center; /* Центрирование по горизонтали и вертикали */
+    height: 100vh; /* Высота страницы равна высоте окна браузера */
+    margin: 0; /* Убираем отступы по умолчанию */
+}
+#div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; 
+}
+.cong{
+    color: b;
+    font-size: 300%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button{
+    display: inline-block; 
+    padding: 10px 20px; 
+    background-color: #007BFF; 
+    color: white; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    font-size: 32px; 
+    text-align: center; 
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button:hover {
+    background-color: #0056b3; /* Темнее цвет фона */}
+
+    .dear{
+        font-family: Arial, Helvetica, sans-serif;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        width: 65%;
+    }
+        #dear1{
+
+    display: flex;
+    justify-content: center ;
+    align-items: center ;
+}
+.Pppp{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+
+
+                     
